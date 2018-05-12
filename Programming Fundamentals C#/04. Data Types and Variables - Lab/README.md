@@ -390,3 +390,4 @@
 <li>Rename your variables to represent their real purpose (example: "dul" should become length, etc.)</li>
 <li>Search for variables that have multiple purpose. If you find any, introduce a new variable</li>
 </ul>
+
