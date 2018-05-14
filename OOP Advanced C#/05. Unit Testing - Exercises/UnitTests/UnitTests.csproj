@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.6.2" />
+    <PackageReference Include="Moq" Version="4.8.2" />
+    <PackageReference Include="NUnit" Version="3.10.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\01. Database\01. Database.csproj" />
+    <ProjectReference Include="..\02. Extended Database\02. Extended Database.csproj" />
+    <ProjectReference Include="..\03. Iterator Test\03. Iterator Test.csproj" />
+    <ProjectReference Include="..\04. Bubble Sort Test\04. Bubble Sort Test.csproj" />
+    <ProjectReference Include="..\05. Integration Tests\05. Integration Tests.csproj" />
+    <ProjectReference Include="..\06. Twitter\06. Twitter.csproj" />
+    <ProjectReference Include="..\07. Hack\07. Hack.csproj" />
+    <ProjectReference Include="..\08. Custom Linked List\08. Custom Linked List.csproj" />
+    <ProjectReference Include="..\09. Date Time Testing\09. Date Time Testing.csproj" />
+    <ProjectReference Include="..\10. Tire Pressure Monitoring System\10. Tire Pressure Monitoring System.csproj" />
+    <ProjectReference Include="..\P01_Database\P01_Database.csproj" />
+    <ProjectReference Include="..\P02_ExtendedDatabase\P02_ExtendedDatabase.csproj" />
+    <ProjectReference Include="..\P03_IteratorTest\P03_IteratorTest.csproj" />
+    <ProjectReference Include="..\P04_BubbleSortTest\P04_BubbleSortTest.csproj" />
+    <ProjectReference Include="..\P05_IntegrationTests\P05_IntegrationTests.csproj" />
+    <ProjectReference Include="..\P06_Twitter\P06_Twitter.csproj" />
+    <ProjectReference Include="..\P07_Hack\P07_Hack.csproj" />
+    <ProjectReference Include="..\P08_CustomLinkedList\P08_CustomLinkedList.csproj" />
+    <ProjectReference Include="..\P09_DateTimeTesting\P09_DateTimeTesting.csproj" />
+    <ProjectReference Include="..\P10_TirePressureMonitoringSystem\P10_TirePressureMonitoringSystem.csproj" />
+  </ItemGroup>
+
+</Project>
