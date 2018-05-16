@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tailoring_Workshop", "TailoringWorkshop\Tailoring_Workshop.csproj", "{7A1A1CD1-92F6-4D6F-80D3-01E6FB8A68C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scolarships", "Scolarships\Scolarships.csproj", "{23EE202B-3BE7-4E7F-8856-2D73D8A49B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoPictures", "PhotoPictures\PhotoPictures.csproj", "{F329D345-3514-4476-A239-1931D713D98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A1A1CD1-92F6-4D6F-80D3-01E6FB8A68C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1A1CD1-92F6-4D6F-80D3-01E6FB8A68C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1A1CD1-92F6-4D6F-80D3-01E6FB8A68C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1A1CD1-92F6-4D6F-80D3-01E6FB8A68C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23EE202B-3BE7-4E7F-8856-2D73D8A49B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EE202B-3BE7-4E7F-8856-2D73D8A49B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EE202B-3BE7-4E7F-8856-2D73D8A49B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EE202B-3BE7-4E7F-8856-2D73D8A49B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F329D345-3514-4476-A239-1931D713D98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F329D345-3514-4476-A239-1931D713D98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F329D345-3514-4476-A239-1931D713D98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F329D345-3514-4476-A239-1931D713D98E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
