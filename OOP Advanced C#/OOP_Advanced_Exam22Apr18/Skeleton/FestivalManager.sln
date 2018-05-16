@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FestivalManager", "FestivalManager.csproj", "{383925C1-002C-48DA-A385-122E55FD37AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Test|Any CPU = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{383925C1-002C-48DA-A385-122E55FD37AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383925C1-002C-48DA-A385-122E55FD37AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383925C1-002C-48DA-A385-122E55FD37AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383925C1-002C-48DA-A385-122E55FD37AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{383925C1-002C-48DA-A385-122E55FD37AA}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{383925C1-002C-48DA-A385-122E55FD37AA}.Test|Any CPU.Build.0 = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0143270-3010-485C-917D-771BEDD8080C}
+	EndGlobalSection
+EndGlobal
