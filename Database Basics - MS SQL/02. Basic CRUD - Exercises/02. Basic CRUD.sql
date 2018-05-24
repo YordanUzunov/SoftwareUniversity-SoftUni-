@@ -1,3 +1,8 @@
+/* ******************************************
+	Resource queries for creating the databases necessary for the following exercises:
+	https://github.com/YordanUzunov/SoftwareUniversity-SoftUni-/tree/master/Database%20Basics%20-%20MS%20SQL/Resource%20Databases
+*********************************************/
+
 
 /* *****************************************************
 	2.	Find All Information About Departments
