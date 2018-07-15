@@ -24,7 +24,7 @@
         {
             if(!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS;Database=FootballBetting;Integrated Security=True");
+                optionsBuilder.UseSqlServer(@"Server=.;Database=FootballBetting;Integrated Security=True");
             }
         }
 

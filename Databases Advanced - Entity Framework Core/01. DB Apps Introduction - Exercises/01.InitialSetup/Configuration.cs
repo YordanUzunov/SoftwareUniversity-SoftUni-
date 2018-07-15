@@ -2,6 +2,6 @@
 {
     public class Configuration
     {
-        public const string ConnectionString = @"Server=DANIMAL\SQLEXPRESS;Database=MinionsDB;Integrated Security=True";
+        public const string ConnectionString = @"Server=.;Database=MinionsDB;Integrated Security=True";
     }
 }

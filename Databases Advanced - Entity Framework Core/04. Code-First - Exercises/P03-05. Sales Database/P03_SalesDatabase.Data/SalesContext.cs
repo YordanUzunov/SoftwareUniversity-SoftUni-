@@ -19,7 +19,7 @@
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=DANIMAL\SQLEXPRESS;Database=Sales;Integrated Security=True;");
+                optionsBuilder.UseSqlServer(@"Server=.;Database=Sales;Integrated Security=True;");
             }
         }
 

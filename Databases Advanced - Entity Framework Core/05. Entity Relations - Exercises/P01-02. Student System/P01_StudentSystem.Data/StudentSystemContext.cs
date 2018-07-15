@@ -22,7 +22,7 @@
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder.EnableSensitiveDataLogging();
-                optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS;Database=StudentSystem;Integrated Security=True");
+                optionsBuilder.UseSqlServer(@"Server=.;Database=StudentSystem;Integrated Security=True");
             }
         }
 
